@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorMediumPurple</item>
+        <item name="colorPrimaryDark">@color/colorLavender</item>
+        <item name="colorAccent">@color/colorLavender</item>
+    </style>
+
+
+    <style name="appBarTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorLavender</item>
+        <item name="colorPrimaryDark">@color/colorLavender</item>
+        <item name="colorAccent">@color/colorLavender</item>
+    </style>
+
+
+    <style name="recyclerTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorGray</item>
+        <item name="colorPrimaryDark">@color/colorWhiteSmoke</item>
+        <item name="colorAccent">@color/colorWhiteSmoke</item>
+    </style>
+
+</resources>

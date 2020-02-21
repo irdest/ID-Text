@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorLavender">#E6E6FA</color>
+    <color name="colorGray">#bbbbbb</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorPurple">#6F0AEE</color>
+    <color name="colorMediumPurple">#9370DB</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="colorMask">#88FFFFFF</color>
+    <color name="colorWhiteSmoke">#F5F5F5</color>
+    <color name="colorLightGrey">#DCDCDC</color>
+</resources>
